@@ -1,2 +1,2 @@
 # portfolio-page
-it is the landing page for my portfolio and my final project to getting a certificate from freecode camp
+Html&Css landing page for my portfolio and final project to getting a certificate of completion from freecode camp
